@@ -1,0 +1,39 @@
+body{
+top:0
+
+}
+
+
+
+div{
+border:2px solid rgb(172, 168, 168);
+/* display:flex; */
+/* text-align: center; */
+
+border-radius: 10px;
+
+padding: 10px;
+/* margin-top:200px; */
+/* margin-bottom: 200px; */
+margin-left:400px;
+margin-top: 100px;
+width:20%;
+background-color:rgb(252, 185, 185)
+}
+
+
+button{
+    padding:5px;
+    width:45px;
+    border-radius: 50%;
+    box-shadow: none;
+    border: 1px solid orange;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+input{
+    width:187px;
+    height: 40px;
+    border-radius: 10px;
+    border:1px solid rgb(214, 157, 51)
+}
